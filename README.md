@@ -33,7 +33,6 @@ Weekend-Getaway-Ranker/
 │── sample_output.txt
 │── README.md
 
-🔧 Installation & Execution
 ## ⚙️ Installation & Execution
 
 ### 1️⃣ Clone the Repository
