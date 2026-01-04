@@ -45,3 +45,9 @@ pip install -r requirements.txt
 
 3️⃣ Run the Program
 python weekend_getaway_ranker.py
+
+Enter a source city when prompted:
+Enter Source City: Delhi
+
+You can check sample outputs in:
+sample_output.txt
