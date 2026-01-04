@@ -32,3 +32,16 @@ Weekend-Getaway-Ranker/
 │── requirements.txt
 │── sample_output.txt
 │── README.md
+
+## ⚙️ Installation & Execution
+
+### 1️⃣ Clone the Repository
+```bash
+git clone <your-github-repo-link>
+cd Weekend-Getaway-Ranker
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+3️⃣ Run the Program
+python weekend_getaway_ranker.py
