@@ -1,0 +1,34 @@
+SOURCE CITY: Delhi
+
+Top 5 Weekend Getaways from Delhi:
+
+              City  Google review rating  Number of google review in lakhs  Final_Score
+83       Hyderabad              4.390909                              8.77     0.851901
+138         Mumbai              4.480000                              8.25     0.826801
+71   Greater Noida              4.400000                              7.85     0.803445
+24       Bangalore              4.440000                              5.66     0.740536
+113        Kolkata              4.480000                              5.64     0.731259
+
+
+SOURCE CITY: Mumbai
+
+Top 5 Weekend Getaways from Mumbai:
+
+              City  Google review rating  Number of google review in lakhs  Final_Score
+57           Delhi              4.381250                              9.69     0.833750
+83       Hyderabad              4.390909                              8.77     0.813884
+71   Greater Noida              4.400000                              7.85     0.769421
+24       Bangalore              4.440000                              5.66     0.716017
+113        Kolkata              4.480000                              5.64     0.706826
+
+
+SOURCE CITY: Kolkata
+
+Top 5 Weekend Getaways from Kolkata:
+
+              City  Google review rating  Number of google review in lakhs  Final_Score
+57           Delhi              4.381250                              9.69     0.833750
+83       Hyderabad              4.390909                              8.77     0.813884
+138         Mumbai              4.480000                              8.25     0.791041
+71   Greater Noida              4.400000                              7.85     0.769421
+24       Bangalore              4.440000                              5.66     0.716017
