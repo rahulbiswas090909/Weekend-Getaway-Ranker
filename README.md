@@ -33,11 +33,12 @@ Weekend-Getaway-Ranker/
 │── sample_output.txt
 │── README.md
 
+🔧 Installation & Execution
 ## ⚙️ Installation & Execution
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/rahulbiswas090909/Weekend-Getaway-Ranker.git
 cd Weekend-Getaway-Ranker
 
 2️⃣ Install Dependencies
@@ -46,8 +47,8 @@ pip install -r requirements.txt
 3️⃣ Run the Program
 python weekend_getaway_ranker.py
 
-Enter a source city when prompted:
+Enter the source city when prompted:
 Enter Source City: Delhi
 
-You can check sample outputs in:
+Check sample outputs in:
 sample_output.txt
